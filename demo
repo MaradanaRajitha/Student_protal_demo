@@ -1,0 +1,19 @@
+# Student Portal Demo
+A basic student portal application for managing student information, courses, and grades.
+
+## Features
+- Student profile management
+- Course enrollment and tracking
+- Grade tracking and reporting
+
+## Technologies
+- Frontend: HTML, CSS, JavaScript
+- Backend: Node.js, Express.js
+- Database: MongoDB
+
+## Getting Started
+1. Clone the repository
+2. Install dependencies
+3. Start the application
+
+You can customize this content as per your needs.
